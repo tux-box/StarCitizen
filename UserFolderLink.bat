@@ -1,0 +1,5 @@
+rem ajust for your enviroument
+mklink /d "C:\Program Files\Roberts Space Industries\StarCitizen\PTU\user\client\0\controls\mappings" "C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\user\client\0\controls\mappings"
+mklink /d "C:\Program Files\Roberts Space Industries\StarCitizen\HOTFIX\user\client\0\controls\mappings" "C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\user\client\0\controls\mappings"
+mklink /d "C:\Program Files\Roberts Space Industries\StarCitizen\PTU\user\client\0\customcharacters" "C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\user\client\0\customcharacters"
+mklink /d "C:\Program Files\Roberts Space Industries\StarCitizen\HOTFIX\user\client\0\customcharacters" "C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\user\client\0\customcharacters"
